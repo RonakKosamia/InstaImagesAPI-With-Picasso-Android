@@ -1,6 +1,6 @@
 # InstaImagesAPI-With-Picasso-Android
 
-Instruction: 
+**Instructions: 
 
 1- Download both projects
 
@@ -10,8 +10,10 @@ Instruction:
 
 4- use live device for test instead of VMs. (Will make easy to test with internet connection).
 
-Project Desc: 
+**Project Desc: 
+
 Part 1 : Reusable SDK to expose Instagram APi Call and Download Image Data
+
 Part 2:  App to call and SDK which exposes API call
 
 
